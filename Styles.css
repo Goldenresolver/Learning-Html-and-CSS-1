@@ -1,0 +1,19 @@
+ /* "#"Hashtags refers to id's*/
+#redText{ color:rgb(0, 255, 85); 
+         font-size:50px;
+}
+#div1 {
+    background:teal ;
+
+}
+#div2{ background:purple}
+#div3 {
+    background:rgb(197, 194, 204) ;}
+    #span1{
+        color:orange;
+    }
+    #span2{
+        color:blue;
+    }
+/* "." Periods refer to classes.classes are used to give styles to more than one thing*/
+.coolClass{ font-size:40px;}
